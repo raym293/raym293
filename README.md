@@ -1,5 +1,5 @@
 # About Me:
-Buenos noches
+Hi, I'm Raymond — a Computer Science and Mathematics undergrad at BITS Goa. I enjoy building backend systems, working on algorithms, and exploring efficient, real-world solutions.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=raym293&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
